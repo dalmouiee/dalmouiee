@@ -1,14 +1,16 @@
 ### Hey there, I'm Daniel! 👋
 
-- Computer Scientist at the Ingham Institute - Medical Physics group
-
-- I enjoy watching Cricket 🏏 and Tennis 🎾, playing video games 🎮
+- Computer Scientist at the Ingham Institute - Medical Physics
 
 - Part-time PhD student at UNSW working on the application and optimisation of federated learning techniques in radiation therapy applications
 
-- Currently active on StackoverFlow!
+- Current open-source projects I'm collborating on:
+  * [Pydicer](https://github.com/AustralianCancerDataNetwork/pydicer): PYthon Dicom Image ConvertER
+  * Currently active on StackoverFlow!
 
 <a href="https://stackoverflow.com/users/8707337/daniel-al-mouiee"><img src="https://stackoverflow.com/users/flair/8707337.png?theme=dark" width="208" height="58" alt="profile for Daniel Al Mouiee at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Daniel Al Mouiee at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+- I enjoy watching Cricket 🏏 and Tennis 🎾, playing video games 🎮
 
 - Feel free to reach me via:
   * [email](mailto:d.almouiee@unsw.edu.au)

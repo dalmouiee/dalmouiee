@@ -1,6 +1,6 @@
 ### Hey there, I'm Daniel! 👋
 
-- Computer Scientist at the Ingham Institute
+- Computer Scientist at the Ingham Institute - Medical Physics group
 
 - I enjoy watching Cricket 🏏 and Tennis 🎾, playing video games 🎮
 

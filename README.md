@@ -10,6 +10,8 @@
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalmouiee&theme=dark)
 
+## Projects/Activities
+
 - Current open-source projects I'm collborating on:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AustralianCancerDataNetwork&repo=pydicer&theme=dark)](https://github.com/AustralianCancerDataNetwork/pydicer)

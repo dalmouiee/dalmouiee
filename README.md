@@ -12,7 +12,7 @@
 
 ## Projects/Activities
 
-- Current open-source projects I'm collborating on:
+- Current open-source projects I'm collaborating on:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AustralianCancerDataNetwork&repo=pydicer&theme=dark)](https://github.com/AustralianCancerDataNetwork/pydicer)
   

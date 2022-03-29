@@ -4,7 +4,7 @@
 
 - Part-time PhD student at UNSW working on the application and optimisation of federated learning techniques in radiation therapy applications
 
-- I enjoy watching Cricket 🏏 and Tennis 🎾, playing video games 🎮
+- I enjoy watching Cricket 🏏, Football ⚽ and Tennis 🎾, playing video games 🎮
 
 ## Github Stats 
 

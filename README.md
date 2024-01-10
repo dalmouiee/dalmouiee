@@ -2,7 +2,7 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-daniel-almouiee/) <br>
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:d.almouiee@unsw.edu.au)
 
-- Computer Scientist at the Ingham Institute - Medical Physics
+- Senior Software Engineer @ UNSW (Ingham Medical Physics group)
 
 - Part-time PhD student at UNSW working on the application and optimisation of federated learning techniques in radiation therapy applications
 

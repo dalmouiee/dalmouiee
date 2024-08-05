@@ -2,9 +2,9 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-daniel-almouiee/) <br>
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:d.almouiee@unsw.edu.au)
 
-- Senior Software Engineer @ UNSW (Ingham Medical Physics group)
+- Software Engineer @ Seetreat Medical
 
-- Part-time PhD student at UNSW working on the application and optimisation of federated learning techniques in radiation therapy applications
+- Part-time PhD student at UNSW (Ingham Medical Physics group) working on the application and optimisation of federated learning techniques in radiation therapy applications
 
 
 ## Github Stats 

@@ -1,3 +1,4 @@
+[![Contact me on Codementor](https://www.codementor.io/m-badges/dalmouiee/im-a-cm-b.svg)](https://www.codementor.io/@dalmouiee?refer=badge) <br>
 [<img alt="Twitter" src="https://img.shields.io/twitter/follow/dalmouiee?style=social" />](https://twitter.com/dalmouiee) <br>
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-daniel-almouiee/) <br>
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:d.almouiee@unsw.edu.au)
